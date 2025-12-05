@@ -1,3 +1,16 @@
+# v0.0.3 (Fri Dec 05 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update package.json ([@theoeggdog](https://github.com/theoeggdog))
+- Update index.js ([@theoeggdog](https://github.com/theoeggdog))
+
+#### Authors: 1
+
+- [@theoeggdog](https://github.com/theoeggdog)
+
+---
+
 # v0.0.2 (Fri Dec 05 2025)
 
 #### ⚠️ Pushed to `main`
